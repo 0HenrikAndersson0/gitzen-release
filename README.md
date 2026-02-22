@@ -20,7 +20,6 @@ This repository serves as the official distribution channel and issue tracker fo
 * **🛠 Efficient Workflow:** Streamlined staging, unstaging, and discarding of changes.
 * **🌿 Branch Control:** Create, merge, and manage branches and tags with ease.
 * **🛡 Conflict Management:** Integrated tools to simplify resolving merge conflicts.
-* **🔐 Secure:** Native integration with your system's keychain for safe credential storage.
 
 ## 📥 Download & Installation
 
