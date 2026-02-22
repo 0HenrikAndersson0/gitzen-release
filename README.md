@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue" alt="Platforms">
 </p>
 
+  <img width="2547" height="1433" alt="image" src="https://github.com/user-attachments/assets/87b6b725-ed5f-4a28-a374-f283d7bf69ff" />
+
 ---
 
 This repository serves as the official distribution channel and issue tracker for the Gitzen application.
