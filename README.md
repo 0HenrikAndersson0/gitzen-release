@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/0HenrikAndersson0/gitzen-release/releases/tag/v0.8.12">
+    <img src="https://img.shields.io/badge/Release-v0.8.12-blue" alt="Latest Release">
+  </a>
   <img src="https://img.shields.io/badge/Status-Alpha-orange" alt="Status Alpha">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue" alt="Platforms">
 </p>
