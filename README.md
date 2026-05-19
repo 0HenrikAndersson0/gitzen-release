@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue" alt="Platforms">
 </p>
 
-  <img width="2547" height="1433" alt="image" src="https://github.com/user-attachments/assets/87b6b725-ed5f-4a28-a374-f283d7bf69ff" />
+  <img width="2542" height="1273" alt="image" src="https://github.com/user-attachments/assets/31aec13c-25d1-46ea-a6a8-2c48aa4e0381" />
+
 
 ---
 
