@@ -36,6 +36,7 @@ Gitzen is currently in **Alpha**. You can download the latest installer for your
 | :--- | :--- |
 | **Linux** | `.deb`, `.AppImage` |
 | **Windows** | `.exe` Installer |
+| **Mac** | `.dmg` |
 
 ## 🐛 Feedback & Issues
 
