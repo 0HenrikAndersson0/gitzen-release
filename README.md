@@ -29,7 +29,7 @@ This repository serves as the official distribution channel and issue tracker fo
 
 ## 📥 Download & Installation
 
-Gitzen is currently in **Alpha**. You can download the latest installer for your operating system from the [**Releases Page**](https://github.com/0HenrikAndersson0/gitzen-release/releases).
+Gitzen is currently in **Beta**. You can download the latest installer for your operating system from the [**Releases Page**](https://github.com/0HenrikAndersson0/gitzen-release/releases).
 
 ### Supported Platforms
 | Platform | Format |
